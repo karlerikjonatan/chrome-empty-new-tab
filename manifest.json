@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	"name": "empty-tab",
 	"version": "1.0.0",
-	"description": "Override Chrome's new tab with an empty one",
+	"description": "Override Chrome's new tab with an empty tab",
 	"homepage_url": "https://github.com/karlerikjonatan/empty-tab",
 	"chrome_url_overrides": {
 		"newtab": "index.html"
